@@ -22,7 +22,7 @@ from IPython import display # hiển thị rich output
 
 #%% md
 
-### Sinh ngẫu nhiên hình tròn
+### Sinh ngẫun nhiên hình trò
 
 #%%
 
